@@ -1,0 +1,11 @@
+firebase-admin
+numpy
+keras
+scikit-learn
+pickle-mixin
+joblib
+pandas
+datetime
+matplotlib
+seaborn
+statsmodels
